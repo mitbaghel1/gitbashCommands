@@ -31,4 +31,23 @@ git stash pop
 git stash clear 
 
 
-git remote add origin your repo link
+git remote add origin your_repo_link
+
+git remote -v
+
+$ git push origin master  for push data in origin master
+
+for make a branch
+
+git branch branch_name
+
+Switch beetween branches
+git checkout feature
+Switched to branch 'feature'
+
+
+
+
+
+
+
