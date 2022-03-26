@@ -32,3 +32,29 @@ git stash clear
 
 
 git remote add origin your repo link
+
+git remote -v
+
+$ git push origin master  for push data in origin master
+
+for make a branch
+
+git branch branch_name
+
+Switch beetween branches
+git checkout feature
+Switched to branch 'feature'
+
+To navigate to your home directory, use "cd" or "cd ~"
+To navigate up one directory level, use "cd .."
+To navigate to the previous directory (or back), use "cd -"
+To navigate into the root directory, use "cd /"
+
+
+git clone url
+
+git remote add upstream 
+
+for merge a branch
+
+
