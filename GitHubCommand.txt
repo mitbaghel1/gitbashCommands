@@ -1,0 +1,24 @@
+rm -rf name.txt  -- delete file
+
+ls 		-- Show all folder and file
+
+cd      -- for moving in directory
+
+git status -- for showing all status
+
+git add . or       --
+git add .filename  -- for add file in git stage
+
+git commit -m "message" -- for commit
+
+git reset copyId -- for going to back stage particular id copy
+
+vi filename   -- for write  
+On Windows GIT Bash Ctrl + X would do nothing and found out it works quite like 
+vi/vim. Press i to enter inline insert mode. Type the description at the very 
+top, press esc to exit insert mode, then type :x! (now the cursor is at the 
+bottom) and hit enter to save and exit.
+
+If you have opened Vim without specifying a file and you want to save that file before exiting, you will receive E32: No file name message.
+You can save your file and quit using: :wq filename Enter or; :x filename Enter.
+
