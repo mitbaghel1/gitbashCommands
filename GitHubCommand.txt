@@ -4,6 +4,8 @@ ls 		-- Show all folder and file
 
 cd      -- for moving in directory
 
+git init -- for init git repo
+
 git status -- for showing all status
 
 git add . or       --
@@ -22,3 +24,11 @@ bottom) and hit enter to save and exit.
 If you have opened Vim without specifying a file and you want to save that file before exiting, you will receive E32: No file name message.
 You can save your file and quit using: :wq filename Enter or; :x filename Enter.
 
+git reset -- for reset a commits
+
+git stash
+git stash pop
+git stash clear 
+
+
+git remote add origin your repo link
