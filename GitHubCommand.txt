@@ -58,3 +58,13 @@ git remote add upstream
 for merge a branch
  
 # squesh
+
+
+#for git log 
+git log --decorate --oneline --graph
+git reflog #for all commit and checkouts
+git checkout code
+
+git fsck
+dangling blob  
+
